@@ -51,7 +51,7 @@
     "uuid": "3.3.2",
     "xml2js": "0.4.19"
   },
-  "main": "lib/aws.js",
+  "main": "dist/aws-sdk-react-native.js",
   "browser": {
     "lib/aws.js": "./lib/browser.js",
     "fs": false,
